@@ -1,5 +1,5 @@
 
 function button(){ 
-  document.getElementById("button").innerHTML = "you clicked me"
+  document.innerHTML = "you clicked me!"
 }
   
