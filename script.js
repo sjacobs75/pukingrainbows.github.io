@@ -1,5 +1,5 @@
 
-function button(){ 
-  document.innerHTML = "you clicked me!"
+function button(color){ 
+  document.body.style.background = color 
 }
   
